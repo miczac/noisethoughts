@@ -5,3 +5,5 @@ this is my testrepo or - maybe - git-playground
 
 ok, just kidding ;)
 this is a serious messup, I'm afraid!
+
+I'm sure there was a linefeed after this ok-line above!
