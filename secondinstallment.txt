@@ -1,4 +1,5 @@
 this file I created locall on my computer
 I used vi as the editor
 typing line by line
-done.
+ok, well done - so far.
+But what's the deal? rebase only before a PR?
