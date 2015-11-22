@@ -1,2 +1,4 @@
 # noisethoughts
-not yet determined
+this is my testrepo or - maybe - git-playground
+(is there actually a command like 'git play'?) 
+
