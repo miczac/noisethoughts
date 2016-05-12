@@ -8,3 +8,5 @@ ok, trying to squash some commits that are not in sequence
 this one should be left alone.
 
 this is another line - don't touch it either!
+
+squash this one to the "ok, trying ..." line
