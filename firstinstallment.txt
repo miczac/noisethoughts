@@ -10,3 +10,5 @@ this one should be left alone.
 this is another line - don't touch it either!
 
 squash this one to the "ok, trying ..." line
+
+and squash this one too! :)
