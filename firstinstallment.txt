@@ -12,3 +12,5 @@ this is another line - don't touch it either!
 squash this one to the "ok, trying ..." line
 
 and squash this one too! :)
+
+Just add a line to check time and date.
