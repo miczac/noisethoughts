@@ -4,3 +4,4 @@ typing line by line
 ok, well done - so far.
 But what's the deal? rebase only before a PR?
 Adding a line, just like that!
+merged to master and thereby added another line!
