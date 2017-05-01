@@ -16,3 +16,5 @@ and squash this one too! :)
 Just add a line to check time and date.
 
 Adding a line to get some other changes!
+This line will conflict too!
+but this was easily resolved! ;)
