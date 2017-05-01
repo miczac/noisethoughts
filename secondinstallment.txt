@@ -3,3 +3,4 @@ I used vi as the editor
 typing line by line
 ok, well done - so far.
 But what's the deal? rebase only before a PR?
+Adding a line, just like that!
